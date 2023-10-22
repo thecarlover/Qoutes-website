@@ -10,4 +10,4 @@ The Quotes is a simple web application that provides you with random inspiration
 
 
 ## website link
--thecarlover.github.io/Qoutes-website
+- thecarlover.github.io/Qoutes-website
