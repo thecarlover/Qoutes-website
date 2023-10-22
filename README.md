@@ -7,3 +7,7 @@ The Quotes is a simple web application that provides you with random inspiration
 
 - Randomly generates quotes from a curated collection.
 - Click the "Generate Quote" button to get a new quote.
+
+
+## website link
+-thecarlover.github.io/Qoutes-website
